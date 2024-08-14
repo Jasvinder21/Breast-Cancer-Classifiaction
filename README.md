@@ -32,7 +32,3 @@ The following models were trained and evaluated, with their accuracy scores list
 
 ## Conclusion
 This project highlights the effectiveness of ensemble methods and support vector machines in classifying breast cancer with high accuracy. Future work could explore hyperparameter tuning, feature selection, and the application of deep learning techniques.
-
----
-
-You can expand or modify this template based on the specifics of your implementation.
