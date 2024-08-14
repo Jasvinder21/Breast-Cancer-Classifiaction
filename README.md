@@ -1,4 +1,4 @@
-# Breast-Cancer-Classifiaction
+# Breast-Cancer-Classification
 
 This project involves the comparison and evaluation of various machine learning models for the classification of breast cancer. The goal is to predict whether a tumor is benign or malignant based on several features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 
